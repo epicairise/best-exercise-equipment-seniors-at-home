@@ -1,0 +1,42 @@
+[
+  {
+    "position": 1,
+    "name": "Sunny Health & Fitness Recumbent Exercise Bike SF-RB4616",
+    "slug": "sunny-health-recumbent-bike",
+    "description": "A comfortable, low-impact cardio machine ideal for joint-friendly workouts and improved circulation.",
+    "image": "https://epicairise.github.io/sunny-health-recumbent-bike/media/sunny-recumbent-bike.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Pvolve Signature Home Workout Bundle",
+    "slug": "pvolve-home-workout-bundle",
+    "description": "A low-impact resistance training system co-developed with Jennifer Aniston, designed to enhance strength and flexibility.",
+    "image": "https://epicairise.github.io/pvolve-home-workout-bundle/media/pvolve-bundle.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Fit Simplify Resistance Loop Exercise Bands Set",
+    "slug": "fit-simplify-resistance-bands",
+    "description": "A versatile set of resistance bands perfect for strength training, stretching, and rehabilitation exercises.",
+    "image": "https://epicairise.github.io/fit-simplify-resistance-bands/media/fit-simplify-bands.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "LifePro PacerMini Under-Desk Walking Pad",
+    "slug": "lifepro-under-desk-walking-pad",
+    "description": "A compact treadmill designed to keep you moving during work or leisure time, promoting daily activity.",
+    "image": "https://epicairise.github.io/lifepro-under-desk-walking-pad/media/lifepro-pacermini.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "TheraBand Stability Ball with Exercise Guide",
+    "slug": "theraband-stability-ball",
+    "description": "A durable stability ball that enhances core strength, balance, and posture through various exercises.",
+    "image": "https://epicairise.github.io/theraband-stability-ball/media/theraband-stability-ball.jpg",
+    "data-link": "pending"
+  }
+]
