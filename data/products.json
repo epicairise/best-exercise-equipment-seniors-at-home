@@ -1,42 +1,52 @@
 [
   {
     "position": 1,
-    "name": "Sunny Health & Fitness Recumbent Exercise Bike SF-RB4616",
-    "slug": "sunny-health-recumbent-bike",
-    "description": "A comfortable, low-impact cardio machine ideal for joint-friendly workouts and improved circulation.",
-    "image": "https://epicairise.github.io/sunny-health-recumbent-bike/media/sunny-recumbent-bike.jpg",
+    "name": "Sunny Health & Fitness Recumbent Exercise Bike",
+    "slug": "sunny-recumbent-bike",
+    "description": "A comfortable, low-impact cardio solution with adjustable resistance and a supportive seat.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/sunny-recumbent-bike.jpg",
+    "target_audience_match": "Great for older adults who want a gentle, joint-friendly way to stay active without straining their back or knees.",
+    "price": "From $199",
     "data-link": "pending"
   },
   {
     "position": 2,
-    "name": "Pvolve Signature Home Workout Bundle",
-    "slug": "pvolve-home-workout-bundle",
-    "description": "A low-impact resistance training system co-developed with Jennifer Aniston, designed to enhance strength and flexibility.",
-    "image": "https://epicairise.github.io/pvolve-home-workout-bundle/media/pvolve-bundle.jpg",
+    "name": "Gaiam Essentials Thick Yoga Mat",
+    "slug": "gaiam-yoga-mat",
+    "description": "Provides a cushioned, non-slip surface for stretching, yoga, and floor exercises.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/gaiam-yoga-mat.jpg",
+    "target_audience_match": "Perfect for seniors easing into flexibility exercises with confidence and comfort.",
+    "price": "From $29.99",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "Fit Simplify Resistance Loop Exercise Bands Set",
-    "slug": "fit-simplify-resistance-bands",
-    "description": "A versatile set of resistance bands perfect for strength training, stretching, and rehabilitation exercises.",
-    "image": "https://epicairise.github.io/fit-simplify-resistance-bands/media/fit-simplify-bands.jpg",
+    "name": "TheraBand Resistance Bands Set",
+    "slug": "theraband-set",
+    "description": "Color-coded bands offering varying resistance levels for strength training and rehabilitation.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/theraband-set.jpg",
+    "target_audience_match": "Ideal for seniors who want to gently maintain strength and joint mobility at their own pace.",
+    "price": "From $15.99",
     "data-link": "pending"
   },
   {
     "position": 4,
-    "name": "LifePro PacerMini Under-Desk Walking Pad",
-    "slug": "lifepro-under-desk-walking-pad",
-    "description": "A compact treadmill designed to keep you moving during work or leisure time, promoting daily activity.",
-    "image": "https://epicairise.github.io/lifepro-under-desk-walking-pad/media/lifepro-pacermini.jpg",
+    "name": "LifePro Waver Vibration Plate",
+    "slug": "lifepro-vibration-plate",
+    "description": "Enhances circulation, balance, and muscle strength through whole-body vibration therapy.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/lifepro-vibration-plate.jpg",
+    "target_audience_match": "Perfect for seniors looking to boost balance and circulation without intense movement.",
+    "price": "From $249.99",
     "data-link": "pending"
   },
   {
     "position": 5,
-    "name": "TheraBand Stability Ball with Exercise Guide",
-    "slug": "theraband-stability-ball",
-    "description": "A durable stability ball that enhances core strength, balance, and posture through various exercises.",
-    "image": "https://epicairise.github.io/theraband-stability-ball/media/theraband-stability-ball.jpg",
+    "name": "Cubii JR1 Under-Desk Elliptical",
+    "slug": "cubii-jr1",
+    "description": "A compact, seated elliptical machine for low-impact leg exercises while sitting.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/cubii-jr1.jpg",
+    "target_audience_match": "Excellent for seniors who want to stay moving while watching TV or reading.",
+    "price": "From $249",
     "data-link": "pending"
   }
 ]
